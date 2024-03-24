@@ -1,0 +1,3 @@
+if (timestamp < -68572224E5) {
+  // Your code logic here...
+}
